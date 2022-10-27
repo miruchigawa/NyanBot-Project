@@ -128,7 +128,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.md` for more information.
+Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
